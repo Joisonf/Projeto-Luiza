@@ -1,0 +1,25 @@
+
+.projeto-nb{
+  margin: 2.4rem;
+  display: flex;
+ justify-content: space-between;
+}
+
+h3, p{
+  color: #999586;
+}
+
+.projeto-nb img{
+  max-width: 99%;
+  height: auto;
+  margin: 1rem;
+}
+
+.projeto-nb-dupla{
+  display: flex;
+  align-items: center;
+}
+
+.projeto-nb-dupla img{
+  max-width: 98%;
+}

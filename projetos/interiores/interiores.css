@@ -1,0 +1,5 @@
+.row-interiores{
+  display: flex;
+  margin-bottom: 10px;
+  width:50%;
+}
